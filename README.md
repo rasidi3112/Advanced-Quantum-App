@@ -4,9 +4,7 @@
 Aplikasi Quantum Computing Canggih dengan Multiple Algorithms menggunakan **Qiskit**.
 
 
-# Advanced Quantum Computing Application  
-
-| ![Entanglement](images/Figure_2.png) | ![Teleportation](images/Figure_5.png) | ![Grover](images/)Figure_10.png)|
+| ![Entanglement](images/Figure_2.png) | ![Teleportation](images/Figure_5.png) | ![Grover](images/Figure_10.png)|
 |-----------------------------------------|-------------------------------------------|-------------------------------|
 | ![QFT](images/Figure_3.png)                  | ![Phase Estimation](images/Figure_6.png)    | ![VQE](images/Figure_8.png)       |
 | ![Quantum Walk](images/Figure_4.png)        | ![Error Correction](images/Figure_7.png)    | ![Custom GHZ](images/Figure_9.png) |
