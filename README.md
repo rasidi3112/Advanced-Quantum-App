@@ -24,10 +24,26 @@ Project ini menampilkan berbagai algoritma quantum canggih:
 
 Project ini menggunakan **Python 3**, **Qiskit**, dan **Matplotlib** untuk visualisasi hasil.
 
-## Instalasi
+## Installation
 
-1. Pastikan Python 3 sudah terinstall.
-2. Install dependencies:
+Follow these steps to set up the Advanced Quantum Computing Application:
+
+### 1. Clone the repository
 
 ```bash
+git clone https://github.com/rasidi3112/Advanced-Quantum-App.git
+cd Advanced-Quantum-App
+
+# Create a virtual environment named 'venv'
+python3 -m venv venv
+-
+# Activate the virtual environment
+# On macOS/Linux:
+source venv/bin/activate
+# On Windows (PowerShell):
+venv\Scripts\Activate.ps1
+-
 pip install -r requirements.txt
+-
+python main.py
+
