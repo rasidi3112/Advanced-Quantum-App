@@ -1,0 +1,15 @@
+# Core Quantum Computing
+qiskit>=1.0.0
+qiskit-aer>=0.13.0
+
+# Numerical & Scientific
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+pylatexenc>=2.10
+
+# Testing
+pytest>=7.3.0
+pytest-cov>=4.1.0
